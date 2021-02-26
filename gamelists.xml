@@ -881,7 +881,7 @@
 	
 <!-- gamelists - small tile -->
 
-  <customView name="smallscreentile" inherits="grid" displayName="Small Tile">
+  <customView name="smallscreentile" inherits="grid" displayName="Panel (Handhelds)">
 	  
 	 <image name="bottom" extra="true">
     </image>
