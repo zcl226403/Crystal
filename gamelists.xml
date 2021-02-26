@@ -862,9 +862,26 @@
 	  
    </customView>
 	
-<!-- gamelists - small panel -->
+<!-- gamelists - panel with boxart -->
+	
+	  <customView name="tile2" inherits="tile" displayName="Panel (Boxart)">
+	  
+	 	  
+	   <imagegrid name="gamegrid">
+         <autoLayout>5 1</autoLayout>
+         <autoLayoutSelectedZoom>1.15</autoLayoutSelectedZoom>
+         <imageSource>thumb</imageSource>
+      </imagegrid>
+	 	  
+       <image name="gridtile.marquee">
+	<visible>false</visible>
+      </image>	  
 
-  <customView name="smallscreentile" inherits="grid" displayName="Small Panel">
+   </customView>
+	
+<!-- gamelists - small tile -->
+
+  <customView name="smallscreentile" inherits="grid" displayName="Small Tile">
 	  
 	 <image name="bottom" extra="true">
     </image>
@@ -899,14 +916,14 @@
       </text>
 	  
 	   <imagegrid name="gamegrid">
-		<pos>0.1 0.1</pos>
-         <size>.8 .8</size>
+		<pos>0.0 0.0</pos>
+         <size>0.95 0.95</size>
          <autoLayout>1 0</autoLayout>
-         <autoLayoutSelectedZoom>1</autoLayoutSelectedZoom>
+         <autoLayoutSelectedZoom>1.0</autoLayoutSelectedZoom>
          <imageSource>image</imageSource>
 		    <scrollDirection>horizontal</scrollDirection>
-		    <margin>.1 .1 .1 .1</margin>
-         <padding>0.03 0.03 0.08 0.08</padding>
+		    <margin>.02 .02 .02 .02</margin>
+         <padding>0.02 0.02 0.02 0.02</padding>
 		   <showVideoAtDelay>${pandelay}</showVideoAtDelay>
       </imagegrid>
 	  
@@ -963,13 +980,23 @@
       <visible>false</visible>
       </datetime>
 	  
-	<image name="gridtile.cheevos">
+		<image name="gridtile.favorite">
+			<origin>0.05 0</origin>
+      </image>
+		
+		      <image name="gridtile.cheevos">
+        <origin>0.05 1</origin>
       </image>
         
-      <image name="gridtile.cheevos:selected">
-      </image>
+   <image name="md_thumbnail">
+      <pos>.97 .95</pos>
+	   <maxSize>.3 .5</maxSize>
+      <origin>0.95 0.95</origin>
+      <zIndex>90</zIndex>
+    </image>
 	  
    </customView>
+	
 
 	
 </theme>
