@@ -11,28 +11,19 @@
 
     <carousel name="systemcarousel">
      <type>horizontal</type>
-     <pos>0.35 0.0</pos>
+     <pos>.37 -0.33</pos>
       <size>1 1</size>
       <color>ffffff00</color>
       <logoScale>1</logoScale>
-      <logoSize>0 0</logoSize>
-      <maxLogoCount>0</maxLogoCount>
-    <visible>false</visible>
+      <logoSize>0.2 .3</logoSize>
+      <maxLogoCount>1</maxLogoCount>
     <logoAlignment>right</logoAlignment>
-      <defaultTransition>instant</defaultTransition>			
+      <defaultTransition>instant</defaultTransition>	
     </carousel>
 
 	<image name="logo">
 		<path>./../assets/logos/color_logo/${system.theme}.svg</path>
 	</image>
-
-	<image name="system" extra="true">
-        <pos>0.760 0.11</pos>
-    <path>./../assets/logos/color_logo/${system.theme}.svg</path>
-         <maxSize>0.21 0.130</maxSize>
-        <alignment>right</alignment>
-    <visible>true</visible>
-      </image>
 
 	<image name="controller" extra="true">
 		<path>./../assets/logos/controllers/right/${system.theme}.png</path>
@@ -84,6 +75,12 @@
          <path>./../assets/filters/${themecolor}/bg-systemdetailed.svg</path>
       </image> 
 
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
 
 	  </view>
   </feature>  

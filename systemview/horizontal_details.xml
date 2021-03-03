@@ -3,7 +3,10 @@
 <theme>
   <formatVersion>4</formatVersion>
     <include>./systems/${system.theme}.xml</include>  
+ <include>./common.xml</include>
+
   <feature supported="carousel">
+
   <view name="system">
     <carousel name="systemcarousel">
      <type>horizontal</type>
@@ -16,7 +19,10 @@
     <logoAlignment>right</logoAlignment>
       <defaultTransition>instant</defaultTransition>	
     </carousel>
-      
+  
+	<image name="logo">
+	</image>
+    
    <helpsystem name="help">
          <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.025</fontSize>     
@@ -24,9 +30,9 @@
          <textColor>${chelptext}</textColor>
    </helpsystem>  
 
-<text name="shortdescription" extra="true">
- <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
-<visible>false</visible>
+	<text name="shortdescription" extra="true">
+	 <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
+	<visible>false</visible>
 		</text>
 
    <text name="systemInfo">
@@ -64,6 +70,13 @@
          <size>1 1</size>
          <path>./assets/filters/${themecolor}/horizontal_details.svg</path>
       </image>
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
 
 	  </view>
   </feature>  

@@ -49,8 +49,8 @@
 
     <include subset="systemview" name="Default" displayName="Default">./systemview/default.xml</include>
 	<include subset="systemview" name="panel" displayName="Panel">./systemview/panel.xml</include>
-	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
-	<include subset="systemview" name="detailed view" displayName="${hordetail}">./systemview/details.xml</include>
+	<include subset="systemview" name="horizontal detailed" displayName="${$hordetail}">./systemview/horizontal_details.xml</include>
+	<include subset="systemview" name="detailed view" displayName="${systemdetails}">./systemview/details.xml</include>
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
 	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>

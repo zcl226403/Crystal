@@ -33,6 +33,13 @@
 <image name="background" extra="true">
        <path>./assets/filters/${themecolor}/bg-system-left.svg</path>
       </image>
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
  
 </view>
 </theme>

@@ -95,6 +95,13 @@
          <glowSize>0</glowSize>
 		</text>
 
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
+
 	  </view>
   </feature>  
 </theme>

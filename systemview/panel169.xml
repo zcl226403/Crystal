@@ -47,6 +47,13 @@
          <size>1 1</size>
       </image>
 
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+		 <fontSize>0.1</fontSize>
+         <alignment>center</alignment>
+      </text>
+
 	  </view>
   </feature>  
 </theme>
