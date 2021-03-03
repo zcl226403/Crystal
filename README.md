@@ -25,13 +25,13 @@ Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), 
 
 Game Publishers/Developers: Atlus (Atlus), Activision (Activision), Atari (Atari), Capcom (Capcom), Data East (Dataeast), Irem (Irem), Kaneko (Kaneko), Konami (Konami), Midway (Midway), Namco (Namco), Nintendo (Nintendo), Sega (Sega), SNK (Snk), Taito (Taito), Toaplan (Toaplan), Acclaim (Acclaim), Codemasters (Codemasters), EA Sports(Easports), Eidos Interactive (Eidos), Electronic Arts (Ea), GT Interactive (Gt), Infogrames (Infogrames), Lucasarts (Lucasarts), Ocean (Ocean), Rockstar (Rockstar), Ultimate (Ultimate)
 
-Genres: All main genre's supported by screenscraper.fr (no sub-genres)
+Genres: All main genre's supported by screenscraper.fr (no sub-genres) 
 
 The various publisher themes will work from automatic collections:
 
 Arcade Publishers & Platforms: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, 
 
-As well as 2 player, 4 player, never played, favourites etc etc
+As well as 2 player, 4 player, never played, favourites etc etc and decade collections (1970s, 1980s, 1990s)
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.jpg?raw=true)
 
