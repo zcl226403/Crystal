@@ -16,6 +16,15 @@ Panel view provides a netflix style interface for both system pages and gamelist
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
 
+16:9 / 4:3
+----------
+
+In theme settings you can now choose between 16:9 1080p and 4:3 640x480 for your device.
+
+All views will adapt to the resolution/ratio chosen including main system views and gamelist views
+
+More resolutions/ratios may/will appear down the line
+
 COLLECTIONS
 -----------
 
@@ -40,6 +49,8 @@ THEME OPTIONS (All can be found under UI settings > Theme Configuration)
 
 Color Scheme: The theme supports multiple color schemes which you can change here.
 
+Screen Ratio: choose between 16:9 and 4:3
+
 Homepage Layout: A choice of 5 different homepage layouts
 
 System Logo Style: A choice of logo styles for the homepage and gamelists, colour, mono, and also controller which works well with the horizontal layout
@@ -47,8 +58,6 @@ System Logo Style: A choice of logo styles for the homepage and gamelists, colou
 Background Images: A choice of two wallpaper sets
 
 Help Icons: The default icon set uses A (east), B (south), X (North), Y (West). If you are using an xbox style controller then you can switch to Crystal (Reverse). Alternatively there are icon sets for each major platform that reflect their button colours and position. 
-
-System Logo on Gamelists: Can be toggled off if you have overlap between gamelist and icons on very small screen devices
 
 Theme Background Music: this can toggle on or off independant of your global settings. So that if you only want your own music and not any additional themes from this set they will not play (and even when set to  yes you own music will ALWAYS take precedent)
 
