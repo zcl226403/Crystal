@@ -227,11 +227,21 @@
     <battletoads>Battletoads is a video game media franchise by Rare that began with the original beat 'em up game Battletoads in 1991. Starring three anthropomorphic toads named after skin conditions, Rash, Zitz, and Pimple, the series was created to rival the Teenage Mutant Ninja Turtles games series.</battletoads>
     <pokemon>Pokémon is a series of video games  published by Nintendo and The Pokémon Company. Created by Satoshi Tajiri, the first games, Pocket Monsters Red and Green, released in 1996 in Japan for the Game Boy, and the main series of role-playing video games (RPGs), referred as the "core series" by their developers, have continued on each generation of Nintendo's handhelds.</pokemon>
     <lego>Since 1995, 85 commercial video games based on Lego, the construction system produced by The Lego Group, have been released. Genres have included adventure games, board games and racing games. </lego>
-<!-- pending translation -->
     <tic80>TIC-80 is a fantasy computer for making, playing and sharing tiny games. Games are restricted to 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</tic80>
     <samsho>Samurai Shodown, known in Japan as Samurai Spirits, is a fighting game series by SNK. Set in 18th-century Japan, the games also include foreign-born characters and fictional monsters.</samsho>
     <solarus>Solarus is a Lightweight, free and open-source game engine for Action-RPGs. Built in C++, it runs games made in Lua.</solarus>
     <ddr>Dance Dance Revolution (also known as Dancing Stage in earlier European games), is a poineering series of music video game series produced by Konami. Introduced in Japan in 1998 players stand on a "dance platform" and hit colored arrows in time to musical and visual cues.</ddr>
     <tux>SuperTux, SuperTux Kart, and SuperTux Party are open source games inspired by the Super Mario games. Developed since the mid 90's they feature a wide range of open source mascots such as Tux, Mozilla Thunderbird, and Pidgin.</tux>
+	<subset.ratio>Screen Ratio</subset.ratio>
+	<d1970s>The 1970's saw the start of the golden age of arcade games. Coin operated arcade machines became popular featuring classics such as Pac-Man, Galaxians and Space Invaders. It also saw the arrival of the first home consoles such as the Atari 2600.</d1970s>
+	<d1980s>The 1980's saw the dawn of affordable home gaming systems with home computers from the likes of Sinclair and Commodore and the first large-scale console releases from heavyweights Sega and Nintendo.</d1980s>
+	<d1990s>The 1990's saw the re-emergance of arcade's as heavy hitting fighting games like Streetfighter, Tekken and Mortal Kombat were released. The home market saw the release of 5th Generation consoles such as the Sony Playstation, Sega Saturn, and Nintendo 64.</d1990s>
+	<easyrpg>Easy RPG is a free and open source role playing game interpreter and editor that allows you to play games compatible with RPG Maker 2000 and 2003.</easyrpg>	
+	<panlog>Panel logos</panlog>
+	<default>Default</default>
+	<panel>Panel</panel>
+	<smallpanel>Small Panel</smallpanel>
+	<panelbox>Panel with Boxart</panelbox>
+<!-- pending translation -->			
 	</variables>
 		</theme>

@@ -229,7 +229,17 @@
     <tic80>TIC-80 es una computadora de fantasía para crear, jugar y compartir pequeños juegos. Los juegos están restringidos a pantallas de 240x136 píxeles, paleta de 16 colores, 256 sprites de colores de 8x8, sonido de 4 canales, etc.</tic80>
     <samsho>Samurai Shodown, conocido en Japón como Samurai Spirits, es una serie de juegos de lucha de SNK. Ambientado en el Japón del siglo XVIII, los juegos también incluyen personajes extranjeros y monstruos de ficción.</samsho>
     <solarus>Solarus es un motor de juego ligero, gratuito y de código abierto para juegos de rol de acción. Construido en C ++, ejecuta juegos creados en Lua.</solarus>
-<ddr>Dance Dance Revolution (también conocido como Dancing Stage en los primeros juegos europeos), es una serie de videojuegos musicales producida por Konami. Introducido en Japón en 1998, los jugadores se paran en una "plataforma de baile" y golpean flechas de colores al ritmo de las señales musicales y visuales.</ddr>
-<tux>SuperTux, SuperTux Kart y SuperTux Party son juegos de código abierto inspirados en los juegos de Super Mario. Desarrollados desde mediados de los 90, cuentan con una amplia gama de mascotas de código abierto como Tux, Mozilla Thunderbird y Pidgin.</tux>
+	<ddr>Dance Dance Revolution (también conocido como Dancing Stage en los primeros juegos europeos), es una serie de videojuegos musicales producida por Konami. Introducido en Japón en 1998, los jugadores se paran en una "plataforma de baile" y golpean flechas de colores al ritmo de las señales musicales y visuales.</ddr>
+	<tux>SuperTux, SuperTux Kart y SuperTux Party son juegos de código abierto inspirados en los juegos de Super Mario. Desarrollados desde mediados de los 90, cuentan con una amplia gama de mascotas de código abierto como Tux, Mozilla Thunderbird y Pidgin.</tux>
+	<subset.ratio>Relación de pantalla</subset.ratio>
+	<d1970s>La década de 1970 vio el comienzo de la edad de oro de los juegos de arcade. Las máquinas recreativas que funcionan con monedas se hicieron populares con clásicos como Pac-Man, Galaxians y Space Invaders. También lo es la llegada de las primeras consolas domésticas como la Atari 2600.</d1970s>
+	<d1980s>La década de 1980 vio el amanecer de los sistemas de juegos domésticos asequibles con computadoras hogareñas de la talla de Sinclair y Commadore y los primeros lanzamientos de consolas a gran escala de los pesos pesados ​​Sega y Nintendo.</d1980s>
+	<d1990s>La década de 1990 vio el resurgimiento de los arcade cuando se lanzaron juegos de lucha de gran impacto como Streetfighter, Tekken y Mortal Kombat. Para el mercado doméstico, se lanzaron consolas de quinta generación como Sony Playstation, Sega Saturn y Nintendo 64.</d1990s>
+	<easyrpg>Easy RPG es un intérprete y editor de juegos de rol de código abierto y gratuito que te permite jugar juegos compatibles con RPG Maker 2000 y 2003.</easyrpg>	
+	<panlog>Logotipos del panel</panlog>
+	<default>Predeterminado</default>
+	<panel>Panel</panel>
+	<smallpanel>Panel pequeño</smallpanel>
+	<panelbox>Panel con Boxart</panelbox>
 	</variables>
 </theme>

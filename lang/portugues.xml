@@ -233,5 +233,16 @@
     <solarus>Solarus é um motor de jogo leve, gratuito e de código aberto para RPGs de ação. Construído em C ++, ele roda jogos feitos em Lua.</solarus>
 <ddr>Dance Dance Revolution (também conhecido como Dancing Stage nos primeiros jogos europeus), é uma série de videogames musicais produzidos pela Konami. Introduzido no Japão em 1998, os jogadores ficam em uma "plataforma de dança" e acertam as setas coloridas no tempo das pistas musicais e visuais.</ddr>
 <tux>SuperTux, SuperTux Kart e SuperTux Party são jogos de código aberto inspirados nos jogos Super Mario. Desenvolvidos desde meados dos anos 90, eles apresentam uma ampla gama de mascotes de código aberto, como Tux, Mozilla Thunderbird e Pidgin.</tux>
+<subset.ratio>Screen Ratio</subset.ratio>
+	<d1970s>A década de 1970 viu o início da era de ouro dos jogos de arcade. As máquinas de fliperama operadas por moedas tornaram-se populares, apresentando clássicos como Pac-Man, Galaxians e Space Invaders. Também é assim a chegada dos primeiros consoles domésticos, como o Atari 2600.</d1970s>
+	<d1980s>A década de 1980 viu o surgimento de sistemas de jogos domésticos acessíveis com computadores domésticos de empresas como Sinclair e Commadore e os primeiros lançamentos de console em grande escala dos pesos pesados ​​da Sega e Nintendo.</d1980s>
+	<d1990s>A década de 1990 viu o ressurgimento dos fliperamas com o lançamento de jogos de luta de grande impacto como Streetfighter, Tekken e Mortal Kombat. Para o mercado doméstico, assistimos ao lançamento de consoles de 5ª geração, como Sony Playstation, Sega Saturn e Nintendo 64.</d1990s>
+	<easyrpg>Easy RPG é um interpretador e editor de RPG de código aberto gratuito que permite que você jogue jogos compatíveis com RPG Maker 2000 e 2003.</easyrpg>	
+	<panlog>Logotipos do painel</panlog>
+	<default>Padrão</default>
+	<panel>Painel</panel>
+	<smallpanel>Painel pequeno</smallpanel>
+	<panelbox>Painel com Boxart</panelbox>
+	
 	</variables>	
 </theme>
