@@ -16,14 +16,15 @@ Panel view provides a netflix style interface for both system pages and gamelist
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
 
+Crystal also has multiple other views for both system and gamelist including traditional tiled, carousel and detailed views
+
 16:9 / 4:3
 ----------
 
-In theme settings you can now choose between 16:9 1080p and 4:3 640x480 for your device.
+In theme settings you can now choose between 16:9 1080p and 4:3 640x480 for your device as well as a 640x480 mode aimed at CRT displays.
 
 All views will adapt to the resolution/ratio chosen including main system views and gamelist views
 
-More resolutions/ratios may/will appear down the line
 
 COLLECTIONS
 -----------
@@ -49,9 +50,9 @@ THEME OPTIONS (All can be found under UI settings > Theme Configuration)
 
 Color Scheme: The theme supports multiple color schemes which you can change here.
 
-Screen Ratio: choose between 16:9 and 4:3
+Screen Ratio: choose between 16:9 and 4:3 and CRT
 
-Homepage Layout: A choice of 5 different homepage layouts
+Homepage Layout: A choice of 5 different homepage layouts all of which adapt based on the selected ratio
 
 System Logo Style: A choice of logo styles for the homepage and gamelists, colour, mono, and also controller which works well with the horizontal layout
 
