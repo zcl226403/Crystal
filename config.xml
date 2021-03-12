@@ -55,12 +55,13 @@
 
     <include subset="systemview" name="Default" displayName="${default}">./${ratset}/panel.xml</include>
 	<include subset="systemview" name="panel" displayName="${panel}">./${ratset}/panel.xml</include>
+    <include subset="systemview" name="small panel" displayName="${smallpanel}">./${ratset}/smallpanel.xml</include>
 	<include subset="systemview" name="horizontal detailed" displayName="${$hordetail}">./${ratset}/horizontal_details.xml</include>
 	<include subset="systemview" name="detailed view" displayName="${systemdetails}">./${ratset}/details.xml</include>
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./${ratset}/horizontal.xml</include>
 	<include subset="systemview" name="carousel left" displayName="${lhc}">./${ratset}/carousel-left.xml</include>
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./${ratset}/carousel-right.xml</include>
-    <include subset="systemview" name="small panel" displayName="${smallpanel}">./${ratset}/smallpanel.xml</include>
+
  
     <include subset="bgset" name="crystal" displayName="${default}">./options/background/crystal.xml</include>
 	 
