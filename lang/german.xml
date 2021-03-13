@@ -107,7 +107,9 @@
     <n64>Das Nintendo 64 mit dem Codenamen Ultra64 wurde 1996 veröffentlicht und war die letzte große Heimkonsole, die als primäres Speicherformat Cartridges verwendete. Weltweit wurden 32,93 Millionen Einheiten verkauft. Die Hauptkonkurrenten sind die Sony PlayStation und der Sega Saturn.</n64>
     <naomi>Das Sega NAOMI (New Arcade Operation Machine Idea) ist eine Arcade-Systemplatine, die 1998 als Nachfolger der Sega Model 3-Hardware veröffentlicht wurde. Es verwendet dieselbe Architektur wie der Sega Dreamcast und gilt neben dem Sega Model 2 als eines der erfolgreichsten Arcade-Systeme aller Zeiten.</naomi>
     <nds>Der Nintendo DS ist eine 32-Bit-Handheld-Spielekonsole mit zwei Bildschirmen, die von Nintendo entwickelt und veröffentlicht wurde. Das Gerät wurde am 21. November 2004 in Nordamerika in den Handel gebracht. Der DS, kurz für "Developers 'System" oder "Dual Screen", führte unverwechselbare neue Funktionen für Handheld-Spiele ein.</nds>
-    <neocd>Das Neo Geo-CD war die zweite Heimkonsole von SNK, die als billigere Alternative zum AES-System veröffentlicht wurde. Die interne Hardware ist dieselbe, allerdings werden die Spiele auf preiswerteren CD-Roms angeboten. Dies ermöglichte es SNK, Spiele zu einem wettbewerbsfähigeren Preis zu verkaufen.</neocd>
+    <neocd>Das Neo Geo-CD war die zweite Heimkonsole von SNK, die als billigere Alternative zum AES-System veröffentlicht wurde. Die interne Hardware ist dieselbe,
+allerdings werden die Spiele auf preiswerteren CD-Roms angeboten. Dies ermöglichte es SNK, Spiele zu einem wettbewerbsfähigeren Preis zu verkaufen.</neocd>
+
     <neogeo>The Neo•Geo AES was originally launched as a rental console for video game stores in Japan (called Neo Geo Rental System), with its high price causing SNK not to release it for home use – this was later reversed due to high demand and it came into the market as a luxury console.</neogeo>
     <nes>Das Nintendo Entertainment System ist eine 8-Bit-Videospielkonsole, die 1985 von Nintendo in Nordamerika veröffentlicht wurde. Als meistverkaufte Spielekonsole seiner Zeit hat das NES nach dem Absturz des Videospielmarktes von 1983 zur Wiederbelebung der US-Videospielbranche beigetragen.</nes>
     <ngp>Das Neo Geo Pocket ist eine monochrome Handheld-Spielekonsole von SNK. Es war das erste Handheld-System des Unternehmens und gehört zur Neo Geo-Familie. Es debütierte Ende 1998 in Japan.</ngp>
@@ -233,17 +235,16 @@
     <solarus>Solarus is a Lightweight, free and open-source game engine for Action-RPGs. Built in C++, it runs games made in Lua.</solarus>
     <ddr>Dance Dance Revolution (also known as Dancing Stage in earlier European games), is a poineering series of music video game series produced by Konami. Introduced in Japan in 1998 players stand on a "dance platform" and hit colored arrows in time to musical and visual cues.</ddr>
     <tux>SuperTux, SuperTux Kart, and SuperTux Party are open source games inspired by the Super Mario games. Developed since the mid 90's they feature a wide range of open source mascots such as Tux, Mozilla Thunderbird, and Pidgin.</tux>
-
-	<subset.ratio></subset.ratio>
-	<d1970s></d1970s>
-	<d1980s></d1980s>
-	<d1990s></d1990s>
-	<easyrpg></easyrpg>	
-	<panlog></panlog>
-	<default></default>
-	<panel></panel>
-	<smallpanel></smallpanel>
-	<panelbox></panelbox>
-	
+<subset.ratio>Screen Ratio</subset.ratio>
+	<d1970s>The 1970's saw the start of the golden age of arcade games. Coin operated arcade machines became popular featuring classics such as Pac-Man, Galaxians and Space Invaders. It also saw the arrival of the first home consoles such as the Atari 2600.</d1970s>
+	<d1980s>The 1980's saw the dawn of affordable home gaming systems with home computers from the likes of Sinclair and Commodore and the first large-scale console releases from heavyweights Sega and Nintendo.</d1980s>
+	<d1990s>The 1990's saw the re-emergance of arcade's as heavy hitting fighting games like Streetfighter, Tekken and Mortal Kombat were released. The home market saw the release of 5th Generation consoles such as the Sony Playstation, Sega Saturn, and Nintendo 64.</d1990s>
+	<easyrpg>Easy RPG is a free and open source role playing game interpreter and editor that allows you to play games compatible with RPG Maker 2000 and 2003.</easyrpg>	
+	<panlog>Panel logos</panlog>
+	<default>Default</default>
+	<panel>Panel</panel>
+	<smallpanel>Small Panel</smallpanel>
+	<panelbox>Panel with Boxart</panelbox>
+	<ecwolf>ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base.</ecwolf>				
 	</variables>
 		</theme>
