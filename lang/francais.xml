@@ -243,6 +243,6 @@
 	<panel>Panneau</panel>
 	<smallpanel>Petit panneau</smallpanel>
 	<panelbox>Panneau avec Boxart</panelbox>
-	
+	<ecwolf>ECWolf est un port source avancé pour Wolfenstein 3D, Spear of Destiny et Super 3D Noah's Ark basé sur la base de code Wolf4SDL.</ecwolf>
 	</variables>	
 </theme>
