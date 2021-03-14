@@ -6,20 +6,29 @@
 		
 	<langue>fr</langue>
 
-<!-- Font used on system views -->
-<font1>OpenSans-Bold</font1>
+<!-- FONTS -->
+
+<!-- main system views -->
+<font1s>OpenSans-Bold</font1s>
+
+<!-- system info -->
+<font2s>OpenSans-Bold</font2s>
+
+<!-- System description -->
+<font3s>OpenSans-Semi-Bold.ttf</font3s>
 
 <!-- Font used by gamelist items -->
-<font2>OpenSans-Semibold</font2>
+<font1g>OpenSans-Semibold</font1g>
 
 <!-- Font used by descriptions on gamelists -->
-<font3>Homizio</font3>
-
-<!-- Font used on gamelist help system -->
-<font4>OpenSans-Semibold</font4>
+<font2g>Homizio</font2g>
 
 <!-- Font used for title on gamelist panel -->
-<font5>BebasNeue-Regular</font5>
+<font3g>BebasNeue-Regular</font3g>
+
+
+<!-- Font used on gamelist help system -->
+<font4g>OpenSans-Semibold</font4g>
 
 		
 <!-- Global -->
