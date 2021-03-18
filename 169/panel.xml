@@ -30,7 +30,7 @@
     </carousel>
       
    <helpsystem name="help">
-         <fontPath>./fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./fonts/${font1s}.ttf</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>
@@ -57,7 +57,7 @@
       </image>
 
 <text name="shortdescription" extra="true">
- <fontPath>./fonts/OpenSans-Bold.ttf</fontPath>
+ <fontPath>./fonts/${font1s}.ttf</fontPath>
 			<alignment>right</alignment>
 			<color>${cshortdescriptiontext}</color>
 			<fontSize>0.0255</fontSize>			
@@ -85,7 +85,7 @@
       </image> 
 
 <text name="description" extra="true">
-           <fontPath>./fonts/OpenSans-Semi-Bold.ttf</fontPath>
+           <fontPath>./fonts/${font3s}.ttf</fontPath>
 			<pos>.025 0.28</pos>
             <size>0.48 0</size>
 			<alignment>left</alignment>
@@ -97,7 +97,7 @@
 
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>
-        <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+        <fontPath>./fonts/${font1s}.ttf</fontPath>
 		 <fontSize>0.05</fontSize>
          <alignment>center</alignment>
       </text>
