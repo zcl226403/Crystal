@@ -267,8 +267,10 @@
 	<panel>Panel</panel>
 	<smallpanel>Small Panel</smallpanel>
 	<panelbox>Panel with Boxart</panelbox>
-<!-- pending translation -->
 	<ecwolf>ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base.</ecwolf>			
+
+<!-- pending translation -->
 	<outrun>Outrun  is an arcade racing video game released by Sega in September 1986. It is known for its pioneering hardware and graphics, nonlinear gameplay, and a selectable soundtrack with music composed by Hiroshi Kawaguchi. The goal is to avoid traffic and reach one of five destinations.</outrun>
+	<gx4000>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market. The console was released in Europe in 1990 and was an upgraded design based on the then still-popular CPC technology.</gx4000>
 	</variables>
 		</theme>
