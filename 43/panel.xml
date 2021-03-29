@@ -87,7 +87,7 @@
 <text name="description" extra="true">
            <fontPath>./fonts/${font3s}.ttf</fontPath>
 			<pos>.028 0.28</pos>
-            <size>0.80 0</size>
+            <size>0.90 0</size>
 			<alignment>left</alignment>
 			<color>${cdescriptiontext}</color>
 			<fontSize>0.034</fontSize>
