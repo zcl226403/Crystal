@@ -9,6 +9,7 @@
 	<include lang="pt">./lang/pt.xml</include>
 	<include lang="ru">./lang/ru.xml</include>
 	<include lang="ko">./lang/ko.xml</include>
+	<include lang="zh">./lang/zh.xml</include>
 <!--	
 	<include lang="de">./lang/de.xml</include>
 -->
