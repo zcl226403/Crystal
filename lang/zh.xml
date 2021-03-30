@@ -9,25 +9,25 @@
 <!-- FONTS -->
 
 <!-- main system views -->
-<font1s>Chinese-Simhei</font1s>
+<font1s>OpenSans-Bold</font1s>
 
 <!-- system info -->
-<font2s>Chinese-Simhei</font2s>
+<font2s>OpenSans-Bold</font2s>
 
 <!-- System description -->
-<font3s>Hiragino-Sans</font3s>
+<font3s>OpenSans-Semi-Bold</font3s>
 
 <!-- Font used by gamelist items -->
-<font1g>Hiragino-Sans</font1g>
+<font1g>OpenSans-Semibold</font1g>
 
 <!-- Font used by descriptions on gamelists -->
-<font2g>Hiragino-Sans</font2g>
+<font2g>Homizio</font2g>
 
 <!-- Font used for title on gamelist panel -->
-<font3g>Chinese-Msyh</font3g>
+<font3g>BebasNeue-Regular</font3g>
 
 <!-- Font used on gamelist help system -->
-<font4g>Hiragino-Sans</font4g>
+<font4g>OpenSans-Semibold</font4g>
 
 <yes>是的</yes>
 <no>不</no>
