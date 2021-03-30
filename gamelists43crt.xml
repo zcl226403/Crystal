@@ -14,7 +14,7 @@
       <zIndex>20</zIndex>
     </image>
     <helpsystem name="help">
-      <fontPath>./fonts/${font4g}.ttf</fontPath>
+      <fontPath>./fonts/${font4g}</fontPath>
       <fontSize>0.025</fontSize>
       <pos>0.007 0.965</pos>
       <textColor>${chelptext}</textColor>
@@ -33,7 +33,7 @@
       <selectorColor>${cselector}</selectorColor>
       <selectorColorEnd>${cselectorend}</selectorColorEnd>
       <selectorGradientType>${cgradienttype}</selectorGradientType>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.035</fontSize>
       <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
       <lineSpacing>2.075</lineSpacing>
@@ -64,7 +64,7 @@
       <zIndex>20</zIndex>
     </image>
     <helpsystem name="help">
-      <fontPath>./fonts/${font4g}.ttf</fontPath>
+      <fontPath>./fonts/${font4g}</fontPath>
       <fontSize>0.025</fontSize>
       <pos>0.007 0.965</pos>
       <textColor>${chelptext}</textColor>
@@ -82,7 +82,7 @@
       <selectorColor>${cselector}</selectorColor>
       <selectorColorEnd>${cselectorend}</selectorColorEnd>
       <selectorGradientType>${cgradienttype}</selectorGradientType>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.035</fontSize>
       <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
       <alignment>left</alignment>
@@ -137,7 +137,7 @@
       <color>${cgdescription}</color>
       <pos>0.54 0.53</pos>
       <size>0.40 0.370</size>
-      <fontPath>./fonts/${font2g}.ttf</fontPath>
+      <fontPath>./fonts/${font2g}</fontPath>
       <fontSize>0.034</fontSize>
       <glowColor>${cglglow}</glowColor>
       <glowSize>1</glowSize>
@@ -172,7 +172,7 @@
       <zIndex>20</zIndex>
     </image>
     <helpsystem name="help">
-      <fontPath>./fonts/${font4g}.ttf</fontPath>
+      <fontPath>./fonts/${font4g}</fontPath>
       <fontSize>0.025</fontSize>
       <pos>0.007 0.965</pos>
       <textColor>${chelptext}</textColor>
@@ -533,7 +533,7 @@
     <text name="md_name">
       <color>${cgtbgedgeselect}</color>
       <pos>0.128 0.05</pos>
-      <fontPath>./fonts/${font3g}.ttf</fontPath>
+      <fontPath>./fonts/${font3g}</fontPath>
       <fontSize>0.10</fontSize>
       <size>0.72 0.15</size>
       <alignment>left</alignment>
@@ -545,7 +545,7 @@
       <color>${cgdescription}</color>
       <pos>.125 0.31</pos>
       <size>0.7 0.34</size>
-      <fontPath>./../fonts/${font1g}.ttf</fontPath>
+      <fontPath>./../fonts/${font1g}</fontPath>
       <fontSize>0.038</fontSize>
       <alignment>left</alignment>
       <glowColor>${cglglow}</glowColor>

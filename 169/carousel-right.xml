@@ -37,7 +37,7 @@
       </image>
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>
-        <fontPath>./fonts/${font1s}.ttf</fontPath>
+        <fontPath>./fonts/${font1s}</fontPath>
 		 <fontSize>0.05</fontSize>
          <alignment>center</alignment>
       </text>

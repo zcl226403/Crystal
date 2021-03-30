@@ -30,7 +30,7 @@
     </carousel>
       
    <helpsystem name="help">
-         <fontPath>./fonts/${font1s}.ttf</fontPath>
+         <fontPath>./fonts/${font1s}</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>
@@ -57,7 +57,7 @@
       </image>
 
 <text name="shortdescription" extra="true">
- <fontPath>./fonts/${font1s}.ttf</fontPath>
+ <fontPath>./fonts/${font1s}</fontPath>
 			<alignment>right</alignment>
 			<color>${cshortdescriptiontext}</color>
 			<fontSize>0.0255</fontSize>			
@@ -71,7 +71,7 @@
          <color>${cinfotext}</color>
         <size>0.7 0.00</size>
          <alignment>right</alignment>
-         <fontPath>./../fonts/${font2s}.ttf</fontPath>
+         <fontPath>./../fonts/${font2s}</fontPath>
          <fontSize>0.070</fontSize>
          <glowColor>${ctextglow}</glowColor>
          <glowSize>0</glowSize>
@@ -85,7 +85,7 @@
       </image> 
 
 <text name="description" extra="true">
-           <fontPath>./fonts/${font3s}.ttf</fontPath>
+           <fontPath>./fonts/${font3s}</fontPath>
 			<pos>.028 0.28</pos>
             <size>0.90 0</size>
 			<alignment>left</alignment>
@@ -97,7 +97,7 @@
 
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>
-        <fontPath>./fonts/${font1s}.ttf</fontPath>
+        <fontPath>./fonts/${font1s}</fontPath>
 		 <fontSize>0.05</fontSize>
          <alignment>center</alignment>
       </text>

@@ -33,12 +33,12 @@ github:			https://github.com/dm2912
 	
    <view name="menu">
       <menuText name="menufooter">
-         <fontPath>./fonts/Homizio.ttf</fontPath>
+         <fontPath>./fonts/${font2s}</fontPath>
          <fontSize>0.025</fontSize>
          <color>${cmenufooter}</color>
       </menuText>
       <menuText name="menutext">
-         <fontPath>./fonts/OpenSans-Light.ttf</fontPath>
+         <fontPath>./fonts/${fontm1}</fontPath>
          <fontSize>0.035</fontSize>
          <color>${cmenutext}</color>
          <separatorColor>${cmenuseperator}</separatorColor>
@@ -48,12 +48,12 @@ github:			https://github.com/dm2912
          <selectorGradientType>${cgradienttype}</selectorGradientType>
        </menuText>
       <menuTextSmall name="menutextsmall">
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./fonts/${fontm1}</fontPath>
          <fontSize>0.03</fontSize>
          <color>${cmenusubtitle}</color>
       </menuTextSmall>
       <menuText name="menutitle">
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./fonts/${font3s}</fontPath>
          <fontSize>0.04</fontSize>
          <color>${cmenutitle}</color>
       </menuText>
@@ -82,7 +82,7 @@ github:			https://github.com/dm2912
 		 <iconEmuelec>./assets/menu_icons/${cmenuicons}/Emuelec.png</iconEmuelec>
       </menuIcons>
       <helpsystem name="help">
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./fonts/${font3s}</fontPath>
          <fontSize>0.035</fontSize>
          <pos>0.06 0.955</pos>
          <textColor>${chelptext}</textColor>

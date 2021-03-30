@@ -28,7 +28,7 @@
          <color>${cinfotext}</color>
           <size>1 0</size>
          <alignment>center</alignment>
-         <fontPath>./../fonts/${font2s}.ttf</fontPath>
+         <fontPath>./../fonts/${font2s}</fontPath>
          <fontSize>0.10</fontSize>
    </text>
 	  
@@ -45,7 +45,7 @@
 
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>
-        <fontPath>./fonts/${font1s}.ttf</fontPath>
+        <fontPath>./fonts/${font1s}</fontPath>
 		 <fontSize>0.1</fontSize>
          <alignment>left</alignment>
       </text>

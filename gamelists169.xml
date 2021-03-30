@@ -14,7 +14,7 @@
       <zIndex>20</zIndex>
     </image>
     <helpsystem name="help">
-      <fontPath>./fonts/${font4g}.ttf</fontPath>
+      <fontPath>./fonts/${font4g}</fontPath>
       <fontSize>0.025</fontSize>
       <pos>0.007 0.965</pos>
       <textColor>${chelptext}</textColor>
@@ -33,7 +33,7 @@
       <selectorColor>${cselector}</selectorColor>
       <selectorColorEnd>${cselectorend}</selectorColorEnd>
       <selectorGradientType>${cgradienttype}</selectorGradientType>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.035</fontSize>
       <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
       <lineSpacing>2.075</lineSpacing>
@@ -65,7 +65,7 @@
       <zIndex>20</zIndex>
     </image>
     <helpsystem name="help">
-      <fontPath>./fonts/${font4g}.ttf</fontPath>
+      <fontPath>./fonts/${font4g}</fontPath>
       <fontSize>0.025</fontSize>
       <pos>0.007 0.965</pos>
       <textColor>${chelptext}</textColor>
@@ -83,7 +83,7 @@
       <selectorColor>${cselector}</selectorColor>
       <selectorColorEnd>${cselectorend}</selectorColorEnd>
       <selectorGradientType>${cgradienttype}</selectorGradientType>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.029</fontSize>
       <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
       <alignment>left</alignment>
@@ -110,7 +110,7 @@
     </image>
     <datetime name="md_releasedate">
       <pos>0.44 0.07</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <color>${cgldetail}</color>
     </datetime>
@@ -122,7 +122,7 @@
     </image>
     <text name="md_developer">
       <pos>0.44 0.13</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
       <color>${cgldetail}</color>
@@ -135,7 +135,7 @@
     </image>
     <text name="md_publisher">
       <pos>0.44 0.19</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
       <color>${cgldetail}</color>
@@ -148,7 +148,7 @@
     </image>
     <text name="md_genre">
       <pos>0.44 0.25</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
       <color>${cgldetail}</color>
@@ -161,7 +161,7 @@
     </image>
     <text name="md_players">
       <pos>0.44 0.31</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
       <color>${cgldetail}</color>
@@ -174,7 +174,7 @@
     </image>
     <text name="md_gametime">
       <pos>0.44 0.38</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
       <color>${cgldetail}</color>
@@ -183,7 +183,7 @@
       <color>${cgdescription}</color>
       <pos>0.022 0.515</pos>
       <size>0.575 0.400</size>
-      <fontPath>./fonts/${font2g}.ttf</fontPath>
+      <fontPath>./fonts/${font2g}</fontPath>
       <fontSize>0.034</fontSize>
       <glowColor>${cglglow}</glowColor>
       <glowSize>1</glowSize>
@@ -220,7 +220,7 @@
       <zIndex>20</zIndex>
     </image>
     <helpsystem name="help">
-      <fontPath>./fonts/${font4g}.ttf</fontPath>
+      <fontPath>./fonts/${font4g}</fontPath>
       <fontSize>0.025</fontSize>
       <pos>0.007 0.965</pos>
       <textColor>${chelptext}</textColor>
@@ -293,7 +293,7 @@
     </image>
     <datetime name="md_releasedate">
       <pos>0.725 0.13</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <color>${cgldetail}</color>
     </datetime>
@@ -561,7 +561,7 @@
     </image>
     <text name="md_players">
       <pos>0.38 0.143</pos>
-      <fontPath>./fonts/${font1g}.ttf</fontPath>
+      <fontPath>./fonts/${font1g}</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
       <color>${cgldetail}</color>
@@ -623,7 +623,7 @@
     <text name="md_name">
       <color>${cgtbgedgeselect}</color>
       <pos>0.028 0.05</pos>
-      <fontPath>./fonts/${font3g}.ttf</fontPath>
+      <fontPath>./fonts/${font3g}</fontPath>
       <fontSize>0.10</fontSize>
       <size>0.92 0.15</size>
       <alignment>left</alignment>
@@ -635,7 +635,7 @@
       <color>${cgdescription}</color>
       <pos>.025 0.28</pos>
       <size>0.48 0.38</size>
-      <fontPath>./../fonts/${font1g}.ttf</fontPath>
+      <fontPath>./../fonts/${font1g}</fontPath>
       <fontSize>0.038</fontSize>
       <alignment>left</alignment>
       <glowColor>${cglglow}</glowColor>

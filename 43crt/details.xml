@@ -37,7 +37,7 @@
    </helpsystem>
 
     <text name="shortdescription" extra="true">
- <fontPath>./../fonts/${font1s}.ttf</fontPath>
+ <fontPath>./../fonts/${font1s}</fontPath>
 	<visible>false</visible>
 		</text>
 
@@ -47,13 +47,13 @@
          <color>${cinfotext}</color>
           <size>0.56 0</size>
          <alignment>center</alignment>
-         <fontPath>./../fonts/${font2s}.ttf</fontPath>
+         <fontPath>./../fonts/${font2s}</fontPath>
          <fontSize>0.06</fontSize>
    </text>
 
 
 		<text name="description" extra="true">
-           <fontPath>./../fonts/${font3s}.ttf</fontPath>
+           <fontPath>./../fonts/${font3s}</fontPath>
 			<pos>0.57 0.27</pos>
             <size>0.300 0</size>
 			<alignment>right</alignment>
@@ -70,7 +70,7 @@
 
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>
-        <fontPath>./fonts/${font1s}.ttf</fontPath>
+        <fontPath>./fonts/${font1s}</fontPath>
 		 <fontSize>0.05</fontSize>
          <alignment>center</alignment>
       </text>

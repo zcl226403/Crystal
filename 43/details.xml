@@ -33,14 +33,14 @@
       </image> 
 	  
    <helpsystem name="help">
-         <fontPath>./../fonts/${font1s}.ttf</fontPath>
+         <fontPath>./../fonts/${font1s}</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>
    </helpsystem>  
 
     <text name="shortdescription" extra="true">
- <fontPath>./../fonts/${font1s}.ttf</fontPath>
+ <fontPath>./../fonts/${font1s}</fontPath>
 	<visible>false</visible>
 		</text>
 
@@ -50,13 +50,13 @@
          <color>${cinfotext}</color>
           <size>0.47 0.047</size>
          <alignment>left</alignment>
-         <fontPath>./../fonts/${font2s}.ttf</fontPath>
+         <fontPath>./../fonts/${font2s}</fontPath>
          <fontSize>0.040</fontSize>
    </text>
 
 
 		<text name="description" extra="true">
-           <fontPath>./../fonts/${font3s}.ttf</fontPath>
+           <fontPath>./../fonts/${font3s}</fontPath>
 			<pos>0.682 0.27</pos>
             <size>0.300 0</size>
 			<alignment>right</alignment>
@@ -73,7 +73,7 @@
 
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>
-        <fontPath>./fonts/${font1s}.ttf</fontPath>
+        <fontPath>./fonts/${font1s}</fontPath>
 		 <fontSize>0.05</fontSize>
          <alignment>center</alignment>
       </text>
