@@ -31,14 +31,16 @@ github:			https://github.com/dm2912
 
 <!-- menu configs -->
 	
+ <!-- menu configs -->
+	
    <view name="menu">
       <menuText name="menufooter">
-         <fontPath>./fonts/${font2s}</fontPath>
+         <fontPath>./fonts/${font2m}</fontPath>
          <fontSize>0.025</fontSize>
          <color>${cmenufooter}</color>
       </menuText>
       <menuText name="menutext">
-         <fontPath>./fonts/${fontm1}</fontPath>
+         <fontPath>./fonts/${font1m}</fontPath>
          <fontSize>0.035</fontSize>
          <color>${cmenutext}</color>
          <separatorColor>${cmenuseperator}</separatorColor>
@@ -48,12 +50,12 @@ github:			https://github.com/dm2912
          <selectorGradientType>${cgradienttype}</selectorGradientType>
        </menuText>
       <menuTextSmall name="menutextsmall">
-         <fontPath>./fonts/${fontm1}</fontPath>
+         <fontPath>./fonts/${font2m}</fontPath>
          <fontSize>0.03</fontSize>
          <color>${cmenusubtitle}</color>
       </menuTextSmall>
       <menuText name="menutitle">
-         <fontPath>./fonts/${font3s}</fontPath>
+         <fontPath>./fonts/${font2m}</fontPath>
          <fontSize>0.04</fontSize>
          <color>${cmenutitle}</color>
       </menuText>

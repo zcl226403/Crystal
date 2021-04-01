@@ -9,7 +9,10 @@
 <!-- FONTS -->
 
 <!-- menu fonts -->
-<fontm1>OpenSans-Light.ttf</fontm1>
+<font1m>OpenSans-Light.ttf</font1m>
+
+<!-- menu fonts -->
+<font2m>OpenSans-SemiBold.ttf</font2m>
 
 <!-- main system views -->
 <font1s>OpenSans-Bold.ttf</font1s>
@@ -18,10 +21,10 @@
 <font2s>OpenSans-Bold.ttf</font2s>
 
 <!-- System description -->
-<font3s>OpenSans-Semi-Bold.ttf</font3s>
+<font3s>OpenSans-SemiBold.ttf</font3s>
 
 <!-- Font used by gamelist items -->
-<font1g>OpenSans-Semibold.ttf</font1g>
+<font1g>OpenSans-SemiBold.ttf</font1g>
 
 <!-- Font used by descriptions on gamelists -->
 <font2g>Homizio.ttf</font2g>
@@ -30,7 +33,7 @@
 <font3g>BebasNeue-Regular.ttf</font3g>
 
 <!-- Font used on gamelist help system -->
-<font4g>OpenSans-Semibold.ttf</font4g>
+<font4g>OpenSans-SemiBold.ttf</font4g>
 
 
 <!-- Global --> 	
@@ -272,8 +275,12 @@
 	<panelbox>Panel with Boxart</panelbox>
 	<ecwolf>ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base.</ecwolf>			
 
+
 <!-- pending translation -->
 	<outrun>Outrun  is an arcade racing video game released by Sega in September 1986. It is known for its pioneering hardware and graphics, nonlinear gameplay, and a selectable soundtrack with music composed by Hiroshi Kawaguchi. The goal is to avoid traffic and reach one of five destinations.</outrun>
 	<gx4000>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market. The console was released in Europe in 1990 and was an upgraded design based on the then still-popular CPC technology.</gx4000>
+
+
+
 	</variables>
 		</theme>

@@ -9,7 +9,10 @@
 <!-- FONTS -->
 
 <!-- menu fonts -->
-<fontm1>OpenSans-Light.ttf</fontm1>
+<font1m>OpenSans-Light.ttf</font1m>
+
+<!-- menu fonts -->
+<font2m>OpenSans-SemiBold.ttf</font2m>
 
 <!-- main system views -->
 <font1s>OpenSans-Bold.ttf</font1s>
