@@ -519,7 +519,7 @@
       <zIndex>5</zIndex>
     </video>
     <image name="background" extra="true">
-      <path>./assets/filters/black/bg-flix.svg</path>
+      <path>./assets/filters/black/bg-flix.png</path>
       <zindex>6</zindex>
     </image>
     <image name="system_logo" extra="true">
