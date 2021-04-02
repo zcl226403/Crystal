@@ -545,7 +545,7 @@
       <color>${cgdescription}</color>
       <pos>.125 0.31</pos>
       <size>0.7 0.34</size>
-      <fontPath>./../fonts/${font1g}</fontPath>
+      <fontPath>./fonts/${font2g}</fontPath>
       <fontSize>0.038</fontSize>
       <alignment>left</alignment>
       <glowColor>${cglglow}</glowColor>

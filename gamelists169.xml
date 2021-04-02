@@ -634,9 +634,9 @@
     <text name="md_description">
       <color>${cgdescription}</color>
       <pos>.025 0.28</pos>
-      <size>0.48 0.38</size>
-      <fontPath>./../fonts/${font1g}</fontPath>
-      <fontSize>0.038</fontSize>
+      <size>0.48 0.36</size>
+      <fontPath>./fonts/${font2g}</fontPath>
+      <fontSize>0.</fontSize>
       <alignment>left</alignment>
       <glowColor>${cglglow}</glowColor>
       <glowSize>1</glowSize>
