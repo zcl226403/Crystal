@@ -52,7 +52,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./assets/filters/black/bg-flix.svg</path>
+         <path>./assets/filters/black/bg-flix.png</path>
 	<zIndex>4</zIndex>
       </image>
 
