@@ -184,7 +184,7 @@
       <pos>0.022 0.515</pos>
       <size>0.575 0.400</size>
       <fontPath>./fonts/${font2g}</fontPath>
-      <fontSize>0.034</fontSize>
+      <fontSize>0.035</fontSize>
       <glowColor>${cglglow}</glowColor>
       <glowSize>1</glowSize>
     </text>
@@ -300,7 +300,7 @@
     <text name="md_description">
       <pos>0.680 0.678</pos>
       <size>0.30 0.250</size>
-      <fontSize>0.03</fontSize>
+      <fontSize>0.035</fontSize>
       <color>${cgdescription}</color>
     </text>
     <video name="md_video">
@@ -531,7 +531,7 @@
     <text name="md_description">
       <pos>0.05 0.28</pos>
       <size>0.57 0.17</size>
-      <fontSize>0.038</fontSize>
+      <fontSize>0.035</fontSize>
       <color>${cgdescription}</color>
       <glowColor>${cglglow}</glowColor>
       <glowSize>1</glowSize>
