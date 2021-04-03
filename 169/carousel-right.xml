@@ -22,6 +22,15 @@
 
 <image name="logo">
 	</image>
+
+ <text name="shortdescription" extra="true">
+<visible>false</visible>
+		</text>
+
+<text name="description" extra="true">
+<visible>false</visible>
+		</text>
+
  
     <text name="systemInfo">
          <pos>0.007 0.893</pos>

@@ -33,7 +33,7 @@
          <color>${cinfotext}</color>
           <size>1 0</size>
          <alignment>center</alignment>
-         <fontPath>./../fonts/${font2s}</fontPath>
+         <fontPath>./fonts/${font2s}</fontPath>
          <fontSize>0.10</fontSize>
    </text>
 	  

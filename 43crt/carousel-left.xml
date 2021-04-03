@@ -21,6 +21,14 @@
 		<image name="logo">
 	</image>
 
+	<text name="description" extra="true">
+	<visible>false</visible>
+		</text>
+
+  <text name="shortdescription" extra="true">
+	<visible>false</visible>
+		</text>
+
 	  <text name="systemInfo">
          <pos>.50 0.45</pos>
          <alignment>left</alignment>

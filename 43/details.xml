@@ -22,25 +22,25 @@
     </carousel>
 
 	<image name="logo">
-		<path>./../assets/logos/color_logo/${system.theme}.svg</path>
+		<path>./assets/logos/color_logo/${system.theme}.svg</path>
 	</image>
 
 	<image name="controller" extra="true">
-		<path>./../assets/logos/controllers/left/${system.theme}.png</path>
+		<path>./assets/logos/controllers/left/${system.theme}.png</path>
         <pos>0.018 0.640</pos>
          <maxSize>0.35 0.35</maxSize>
         <alignment>left</alignment>
       </image> 
 	  
    <helpsystem name="help">
-         <fontPath>./../fonts/${font1s}</fontPath>
+         <fontPath>./fonts/${font1s}</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>
    </helpsystem>  
 
     <text name="shortdescription" extra="true">
- <fontPath>./../fonts/${font1s}</fontPath>
+ <fontPath>./fonts/${font1s}</fontPath>
 	<visible>false</visible>
 		</text>
 
@@ -50,13 +50,13 @@
          <color>${cinfotext}</color>
           <size>0.47 0.047</size>
          <alignment>left</alignment>
-         <fontPath>./../fonts/${font2s}</fontPath>
+         <fontPath>./../fonts/${font1s}</fontPath>
          <fontSize>0.040</fontSize>
    </text>
 
 
 		<text name="description" extra="true">
-           <fontPath>./../fonts/${font3s}</fontPath>
+           <fontPath>./fonts/${font3s}</fontPath>
 			<pos>0.682 0.27</pos>
             <size>0.300 0</size>
 			<alignment>right</alignment>
@@ -68,7 +68,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./../assets/filters/${themecolor}/bg-system-right43.svg</path>
+         <path>./assets/filters/${themecolor}/bg-system-right43.svg</path>
       </image> 
 
 	   <text name="logoText">

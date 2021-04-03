@@ -24,14 +24,14 @@
 	</image>
     
    <helpsystem name="help">
-         <fontPath>./../fonts/${font1s}</fontPath>
+         <fontPath>./fonts/${font1s}</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>
    </helpsystem>  
 
 	<text name="shortdescription" extra="true">
-	 <fontPath>./../fonts/${font1s}</fontPath>
+	 <fontPath>./fonts/${font1s}</fontPath>
 	<visible>false</visible>
 		</text>
 
@@ -40,21 +40,21 @@
          <backgroundColor>00000000</backgroundColor>
          <color>${cinfotext}</color>
          <alignment>left</alignment>
-         <fontPath>./../fonts/${font2s}</fontPath>
+         <fontPath>./fonts/${font1s}</fontPath>
          <fontSize>0.050</fontSize>
          <glowColor>${ctextglow}</glowColor>
          <glowSize>1</glowSize>
    </text>
 
 	<image name="console" extra="true">
-		<path>./../assets/logos/console/${system.theme}.png</path>
+		<path>./assets/logos/console/${system.theme}.png</path>
         <pos>0.750 0.450</pos>
          <maxSize>0.30 0.40</maxSize>
         <alignment>left</alignment>
       </image> 
 
 <text name="description" extra="true">
-           <fontPath>./../fonts/${font3s}</fontPath>
+           <fontPath>./fonts/${font3s}</fontPath>
 			<pos>.018 0.70</pos>
             <size>0.97 0</size>
 			<alignment>left</alignment>

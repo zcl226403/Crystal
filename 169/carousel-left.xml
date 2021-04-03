@@ -30,6 +30,14 @@
          <pos>0.007 0.965</pos>      
    </helpsystem> 
 
+ <text name="shortdescription" extra="true">
+<visible>false</visible>
+		</text>
+
+<text name="description" extra="true">
+<visible>false</visible>
+		</text>
+
 <image name="background" extra="true">
        <path>./assets/filters/${themecolor}/bg-system-left.svg</path>
       </image>

@@ -2,6 +2,7 @@
 
 <theme>
   <formatVersion>4</formatVersion>
+    <include>./../systems/${system.theme}.xml</include>  
   <feature supported="carousel">
   <view name="system">
 
@@ -36,7 +37,7 @@
    </text>
 	  
   <helpsystem name="help">
-         <fontPath>./../fonts/${font1s}</fontPath>
+         <fontPath>./fonts/${font1s}</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>

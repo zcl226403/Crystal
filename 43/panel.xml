@@ -22,7 +22,7 @@
      <pos>.0 0.32</pos>
       <size>1 1</size>
       <color>ffffff00</color>
-      <logoScale>1.15</logoScale>
+      <logoScale>1.0</logoScale>
       <logoSize>0.25 .5</logoSize>
       <maxLogoCount>3</maxLogoCount>
     <logoAlignment>right</logoAlignment>
@@ -71,7 +71,7 @@
          <color>${cinfotext}</color>
         <size>0.7 0.00</size>
          <alignment>right</alignment>
-         <fontPath>./../fonts/${font2s}</fontPath>
+         <fontPath>./fonts/${font1s}</fontPath>
          <fontSize>0.070</fontSize>
          <glowColor>${ctextglow}</glowColor>
          <glowSize>0</glowSize>
@@ -90,7 +90,7 @@
             <size>0.90 0</size>
 			<alignment>left</alignment>
 			<color>${cdescriptiontext}</color>
-			<fontSize>0.034</fontSize>
+			<fontSize>0.037</fontSize>
         <glowColor>${ctextglow}</glowColor>
          <glowSize>0</glowSize>
 		</text>

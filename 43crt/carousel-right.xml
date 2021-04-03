@@ -29,6 +29,14 @@
          <alignment>right</alignment>
        <fontSize>0.07</fontSize>
    </text>
+
+	<text name="description" extra="true">
+	<visible>false</visible>
+		</text>
+
+  <text name="shortdescription" extra="true">
+	<visible>false</visible>
+		</text>
 	  
 
    <helpsystem name="help">

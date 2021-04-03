@@ -26,7 +26,13 @@
     <text name="systemInfo">
          <pos>0.007 0.893</pos>
    </text>
-	  
+	  	<text name="description" extra="true">
+	<visible>false</visible>
+		</text>
+
+  <text name="shortdescription" extra="true">
+	<visible>false</visible>
+		</text>
 
    <helpsystem name="help">
          <pos>0.007 0.965</pos>      

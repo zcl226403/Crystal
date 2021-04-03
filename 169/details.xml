@@ -1,8 +1,7 @@
 <!-- slideshow -->
 
 <theme>
-  <formatVersion>4</formatVersion>
-    <include>./../systems/${system.theme}.xml</include>  
+  <formatVersion>4</formatVersion> 
  <include>./common.xml</include>
 
   <feature supported="carousel">
@@ -22,28 +21,28 @@
     </carousel>
 
 	<image name="logo">
-		<path>./../assets/logos/color_logo/${system.theme}.svg</path>
+		<path>./assets/logos/color_logo/${system.theme}.svg</path>
 	</image>
 
 	<image name="controller" extra="true">
-		<path>./../assets/logos/controllers/right/${system.theme}.png</path>
+		<path>./assets/logos/controllers/right/${system.theme}.png</path>
         <pos>0.805 0.780</pos>
          <maxSize>0.20 0.20</maxSize>
         <alignment>right</alignment>
       </image> 
 	  
    <helpsystem name="help">
-         <fontPath>./../fonts/${font1s}</fontPath>
+         <fontPath>./fonts/${font1s}</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>
    </helpsystem>  
 
     <text name="shortdescription" extra="true">
- <fontPath>./../fonts/${font1s}</fontPath>
+ <fontPath>./fonts/${font1s}</fontPath>
 			<alignment>right</alignment>
 			<color>${cshortdescriptiontext}</color>
-			<fontSize>0.0255</fontSize>			
+			<fontSize>0.028</fontSize>			
 			<pos>0.445 0.05</pos>
             <size>0.52 0.0</size>
 		</text>
@@ -54,25 +53,25 @@
          <color>${cinfotext}</color>
           <size>0.47 0.047</size>
          <alignment>right</alignment>
-         <fontPath>./../fonts/${font2s}</fontPath>
+         <fontPath>./fonts/${font2s}</fontPath>
          <fontSize>0.040</fontSize>
    </text>
 
 
 		<text name="description" extra="true">
-           <fontPath>./../fonts/${font3s}</fontPath>
+           <fontPath>./fonts/${font3s}</fontPath>
 			<pos>0.742 0.31</pos>
             <size>0.225 0</size>
 			<alignment>right</alignment>
 			<color>${cdescriptiontext}</color>
-			<fontSize>0.033</fontSize>
+			<fontSize>0.0275</fontSize>
 		</text>
 
  <image name="background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./../assets/filters/${themecolor}/bg-systemdetailed.svg</path>
+         <path>./assets/filters/${themecolor}/bg-systemdetailed.svg</path>
       </image> 
 
 	   <text name="logoText">

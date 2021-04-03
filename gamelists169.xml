@@ -636,7 +636,7 @@
       <pos>.025 0.28</pos>
       <size>0.48 0.36</size>
       <fontPath>./fonts/${font2g}</fontPath>
-      <fontSize>0.</fontSize>
+      <fontSize>0.035</fontSize>
       <alignment>left</alignment>
       <glowColor>${cglglow}</glowColor>
       <glowSize>1</glowSize>

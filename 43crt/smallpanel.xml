@@ -33,13 +33,21 @@
          <color>${cinfotext}</color>
           <size>1 0</size>
          <alignment>center</alignment>
-         <fontPath>./../fonts/${font2s}</fontPath>
+         <fontPath>./fonts/${font2s}</fontPath>
          <fontSize>0.10</fontSize>
    </text>
 	  
    <helpsystem name="help"> 
          <pos>0.007 0.965</pos>      
    </helpsystem>
+
+	<text name="description" extra="true">
+	<visible>false</visible>
+		</text>
+
+  <text name="shortdescription" extra="true">
+	<visible>false</visible>
+		</text>
 
 <image name="background" extra="true">
          <origin>0 0</origin>
