@@ -1,7 +1,8 @@
 <!-- slideshow -->
 
 <theme>
-  <formatVersion>4</formatVersion> 
+  <formatVersion>4</formatVersion>
+    <include>./../systems/${system.theme}.xml</include>  
  <include>./common.xml</include>
 
   <feature supported="carousel">
@@ -14,7 +15,7 @@
       <size>.43 .8</size>
       <color>ffffff00</color>
       <logoScale>1</logoScale>
-      <logoSize>0.25 .35</logoSize>
+      <logoSize>0.3 .4</logoSize>
       <maxLogoCount>1</maxLogoCount>
     <logoAlignment>left</logoAlignment>
       <defaultTransition>instant</defaultTransition>	
@@ -25,46 +26,39 @@
 	</image>
 
 	<image name="controller" extra="true">
-		<path>./assets/logos/controllers/right/${system.theme}.png</path>
-        <pos>0.69 0.730</pos>
-         <maxSize>0.20 0.20</maxSize>
-        <alignment>right</alignment>
+		<path>./assets/logos/controllers/left/${system.theme}.png</path>
+        <pos>0.07 0.500</pos>
+         <maxSize>0.35 0.35</maxSize>
+        <alignment>center</alignment>
       </image> 
 	  
    <helpsystem name="help">
-         <fontPath>./fonts/${font1s}</fontPath>
-         <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
-         <textColor>${chelptext}</textColor>
-   </helpsystem>  
+   </helpsystem>
 
     <text name="shortdescription" extra="true">
  <fontPath>./fonts/${font1s}</fontPath>
-			<alignment>right</alignment>
-			<color>${cshortdescriptiontext}</color>
-			<fontSize>0.032</fontSize>			
-			<pos>0.57 0.03</pos>
-            <size>0.32 0.0</size>
+	<visible>false</visible>
 		</text>
 
     <text name="systemInfo">
-         <pos>0.57 0.25</pos>
+         <pos>0.57 0.850</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>${cinfotext}</color>
-          <size>0.32 0.047</size>
+          <size>0.30 0</size>
          <alignment>right</alignment>
-         <fontPath>./fonts/${font2s}</fontPath>
-         <fontSize>0.040</fontSize>
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.07</fontSize>
    </text>
 
 
 		<text name="description" extra="true">
            <fontPath>./fonts/${font3s}</fontPath>
-			<pos>0.57 0.31</pos>
-            <size>0.32 0</size>
+			<pos>0.57 0.27</pos>
+            <size>0.300 0</size>
 			<alignment>right</alignment>
 			<color>${cdescriptiontext}</color>
-			<fontSize>0.032</fontSize>
+			<fontSize>0.031</fontSize>
 		</text>
 
  <image name="background" extra="true">

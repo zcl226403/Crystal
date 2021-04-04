@@ -78,10 +78,10 @@
 	<idefault>Crystal</idefault>
 	<idefaultrev>Crystal (Reverse)</idefaultrev>
 <!-- System layouts -->		
-	<horizontal>Basic Horizontal Menu</horizontal>
+	<horizontal>Simple Horizontal Menu</horizontal>
     <hordetail>Detailed (Horizonta)</hordetail>
-	<rhc>Right Side Carousel</rhc>
-    <lhc>Left Side Carousel</lhc>
+	<rhc>Carousel (Right Sided)</rhc>
+    <lhc>Carousel (Left Sided)</lhc>
 	<systemdetails>Detailed (Vertical)</systemdetails>
 <!-- Video delay -->
     <delay1>1 second</delay1>
@@ -98,13 +98,13 @@
     <subset.iconset>Help Icons</subset.iconset>
     <subset.shader>Theme Shaders</subset.shader>
 	<subset.music>System Music</subset.music>
-	<subset.logoset>System Logo Style</subset.logoset>
+	<subset.logoset>Logo Style</subset.logoset>
 	<subset.thememusic>Theme Background Music</subset.thememusic>
-    <subset.vdelay>Video delay on gamelist</subset.vdelay>
+    <subset.vdelay>Gamelist Video Delay</subset.vdelay>
     <subset.slog>System Logo on Gamelists</subset.slog>
-    <subset.colorset>Theme Colour Scheme</subset.colorset>
+    <subset.colorset>Colour Scheme</subset.colorset>
     <subset.videoview>Gamelist Video Delay</subset.videoview>
-    <subset.sysvdelay>System view Video Delay</subset.sysvdelay>
+    <subset.sysvdelay>System Video Delay</subset.sysvdelay>
 <!-- System descriptions -->
     <psx>The PlayStation (unofficially abbreviated as PSX) is a home video game console developed and marketed by Sony Computer Entertainment.  The original console in the series was the first console of any type to ship over 100 million units, doing so in under a decade.</psx>
     <threedo>The 3DO is a home video game console conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not manufactured by the company itself. Panasonic produced the first models, and further renditions of the hardware were released by GoldStar and Sanyo. </threedo>
@@ -277,7 +277,7 @@
 
 
 <!-- pending translation -->
-	<outrun>Outrun  is an arcade racing video game released by Sega in September 1986. It is known for its pioneering hardware and graphics, nonlinear gameplay, and a selectable soundtrack with music composed by Hiroshi Kawaguchi. The goal is to avoid traffic and reach one of five destinations.</outrun>
+	<outrun>Outrun is an arcade racing video game released by Sega in September 1986. It is known for its pioneering hardware and graphics, nonlinear gameplay, and a selectable soundtrack with music composed by Hiroshi Kawaguchi. The goal is to avoid traffic and reach one of five destinations.</outrun>
 	<gx4000>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market. The console was released in Europe in 1990 and was an upgraded design based on the then still-popular CPC technology.</gx4000>
 
 
