@@ -15,7 +15,7 @@
       <size>.43 .8</size>
       <color>ffffff00</color>
       <logoScale>1</logoScale>
-      <logoSize>0.3 .4</logoSize>
+      <logoSize>0.25 .35</logoSize>
       <maxLogoCount>1</maxLogoCount>
     <logoAlignment>left</logoAlignment>
       <defaultTransition>instant</defaultTransition>	

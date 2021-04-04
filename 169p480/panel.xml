@@ -69,10 +69,10 @@
          <pos>0.600 0.530</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>${cinfotext}</color>
-        <size>0.295 0.00</size>
+        <size>0.335 0.00</size>
          <alignment>right</alignment>
          <fontPath>./fonts/${font1s}</fontPath>
-         <fontSize>0.070</fontSize>
+         <fontSize>0.075</fontSize>
          <glowColor>${ctextglow}</glowColor>
          <glowSize>0</glowSize>
    </text>
