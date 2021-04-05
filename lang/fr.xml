@@ -24,17 +24,16 @@
 <font3s>OpenSans-SemiBold.ttf</font3s>
 
 <!-- Font used by gamelist items -->
-<font1g>OpenSans-Semibold.ttf</font1g>
+<font1g>OpenSans-SemiBold.ttf</font1g>
 
 <!-- Font used by descriptions on gamelists -->
-<font2g>Homizio.ttf</font2g>
+<font2g>OpenSans-SemiBold.ttf</font2g>
 
 <!-- Font used for title on gamelist panel -->
 <font3g>BebasNeue-Regular.ttf</font3g>
 
-
 <!-- Font used on gamelist help system -->
-<font4g>OpenSans-Semibold.ttf</font4g>
+<font4g>OpenSans-SemiBold.ttf</font4g>
 
 		
 <!-- Global -->
