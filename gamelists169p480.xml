@@ -605,7 +605,7 @@
     <imagegrid name="gamegrid">
       <pos>.0 0.7</pos>
       <size>1 .3</size>
-      <autoLayout>5 1</autoLayout>
+      <autoLayout>4 1</autoLayout>
       <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
       <imageSource>image</imageSource>
       <scrollDirection>horizontal</scrollDirection>

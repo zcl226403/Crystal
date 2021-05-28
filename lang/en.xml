@@ -282,6 +282,7 @@
 	<gx4000>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market. The console was released in Europe in 1990 and was an upgraded design based on the then still-popular CPC technology.</gx4000>
 	<dukenukem>Duke Nukem is a video game series named for its protagonist, Duke Nukem. Created by the company Apogee Software Ltd, The first two games in the main series were 2D platformers, while the later games have been a mix of first-person and third-person shooters.</dukenukem> 
 	<supervision>The Watara Supervision, also known as the QuickShot Supervision in the UK, is a monochrome handheld game console introduced in 1992 as a cut-price competitor for Nintendo's Game Boy. The console was cancelled after it failed to gain any popularity among gamers.</supervision>
+	<freej2me>FreeJ2ME is a simple J2ME (Java Platform Micro Edition) emulator with a focus on old mobile phone games. It was designed to run on Windows, desktop Linux, and on the Raspberry Pi 3 using Libretro and Retroarch.</freej2me>
 
 	</variables>
 		</theme>
