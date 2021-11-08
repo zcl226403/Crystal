@@ -1,6 +1,5 @@
 <theme>
     <formatVersion>4</formatVersion>
-
     <include>./lang/en.xml</include>
 	<include lang="es">./lang/es.xml</include>
 	<include lang="es_MX">./lang/es.xml</include>
