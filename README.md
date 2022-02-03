@@ -39,7 +39,7 @@ Genres: All main genre's supported by screenscraper.fr (no sub-genres)
 
 The various publisher themes will work from automatic collections:
 
-Arcade Publishers & Platforms: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, 
+Arcade Publishers & Platforms: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, Eighting, Psikyo
 
 As well as 2 player, 4 player, never played, favourites etc etc and decade collections (1970s, 1980s, 1990s)
 
